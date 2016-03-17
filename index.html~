@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+	<html lang="en">
+		<head>
+			<meta charset="utf-8"></meta>
+			<title>Google</title>
+<link type="text/css" rel="stylesheet" href="reset.css"/>
+<link type="text/css" rel="stylesheet" href="style.css"/>
+		</head>
+			<body>
+			<header>	
+				<nav id="first_bar">
+					
+						<a href="#" title="Vai alla home page di Google">
+						<div id="logo logo_small">
+							<img src="Google_logo.png"/>						
+						</div>
+						</a>
+					
+					<div id="tfheader">
+						<form id="tfnewsearch" method="get" action="http://www.google.com">
+		        		<input type="text" class="tftextinput" name="q" size="21" maxlength="120"></input>
+					<a href="#">
+						</form>
+					</div>						
+					<div class="tfclear">
+					<ul>
+						<li id="app_google"><a href="#"><img src="Google_option2.png"/></a></li>
+						<li id="sign_in"><button type="button"><a href="#">Sign in</a></button></li>
+					</ul>
+					</div>	
+				</nav>
+			</header>
+				<div id="second_bar">
+					<ul class="second-bar-url">
+						<li>
+							<a href="#">All</a>
+						</li>
+						<li>
+							<a href="#">Images</a>
+						</li>
+						<li>
+							<a href="#">Shopping</a>
+						</li>
+						<li>
+							<a href="#">News</a>
+						</li>
+						<li>
+							<a href="#">Videos</a>
+						</li>
+						<li>
+							<a href="#">Maps</a>
+						</li>
+						<li>
+							<a href="#">Search tools</a>
+						</li>
+					</ul>
+					<button type="button">
+						<a href="#"><img src="Google_option_icon.png"></img></a>
+					</button>				
+					</div>
+				<div id="result_container">
+					<p class="results_number">About 1.824.430.000 results (0,13 seconds)</p>
+					<div id="result">
+						<h2>Ab absurdo</h2>
+						<cite>http://www.inrebus.com/latinphrases_a.php</cite>
+						<p>From the absurd (establishing the validity of your argument by pointing out the absurdity of your opponent's position)</p>
+					</div>	
+					<div id="result">
+						<h2>Ab absurdo</h2>
+						<cite>http://www.inrebus.com/latinphrases_a.php</cite>
+						<p>From the absurd (establishing the validity of your argument by pointing out the absurdity of your opponent's position)</p>
+					</div>	
+					<div id="result">
+						<h2>Ab absurdo</h2>
+						<cite>http://www.inrebus.com/latinphrases_a.php</cite>
+						<p>From the absurd (establishing the validity of your argument by pointing out the absurdity of your opponent's position)</p>
+					</div>	
+					<div id="result">
+						<h2>Ab absurdo</h2>
+						<cite>http://www.inrebus.com/latinphrases_a.php</cite>
+						<p>From the absurd (establishing the validity of your argument by pointing out the absurdity of your opponent's position)</p>
+					</div>	
+					<div id="result">
+						<h2>Ab absurdo</h2>
+						<cite>http://www.inrebus.com/latinphrases_a.php</cite>
+						<p>From the absurd (establishing the validity of your argument by pointing out the absurdity of your opponent's position)</p>
+					</div>	
+					<div id="result">
+						<h2>Ab absurdo</h2>
+						<cite>http://www.inrebus.com/latinphrases_a.php</cite>
+						<p>From the absurd (establishing the validity of your argument by pointing out the absurdity of your opponent's position)</p>
+					</div>	
+					<div id="result">
+						<h2>Ab absurdo</h2>
+						<cite>http://www.inrebus.com/latinphrases_a.php</cite>
+						<p>From the absurd (establishing the validity of your argument by pointing out the absurdity of your opponent's position)</p>
+					</div>	
+					<div id="result">
+						<h2>Ab absurdo</h2>
+						<cite>http://www.inrebus.com/latinphrases_a.php</cite>
+						<p>From the absurd (establishing the validity of your argument by pointing out the absurdity of your opponent's position)</p>
+					</div>	
+					<div id="result">
+						<h2>Ab absurdo</h2>
+						<cite>http://www.inrebus.com/latinphrases_a.php</cite>
+						<p>From the absurd (establishing the validity of your argument by pointing out the absurdity of your opponent's position)</p>
+					</div>	
+					<div id="result">
+						<h2>Ab absurdo</h2>
+						<cite>http://www.inrebus.com/latinphrases_a.php</cite>
+						<p>From the absurd (establishing the validity of your argument by pointing out the absurdity of your opponent's position)</p>
+					</div>	
+					
+				</div>
+				<div id="bottom_google">
+					<img src="gooogle.png"></img>
+					<ul>
+						<li class="active"><a href="#">1</a></li>
+						<li><a href="#">2</a></li>
+						<li><a href="#">3</a></li>
+						<li><a href="#">4</a></li>
+						<li><a href="#">5</a></li>
+						<li><a href="#">6</a></li>
+						<li><a href="#">7</a></li>
+						<li><a href="#">8</a></li>
+						<li><a href="#">9</a></li>
+						<li><a href="#">10</a></li>
+						<li><a href="#">Next</a></li>
+					</ul>	
+				<footer>
+					<div id="footer">
+						<ul>
+							<li><a href="#">Help</a></li>
+							<li><a href="#">Send Feedback</a></li>
+							<li><a href="#">Privacy</a></li>
+							<li><a href="#">Terms</a></li>
+						</ul>
+					</div>
+				</footer>
+
+					
+				</div>		
+				
+			</body>
+	</html>
