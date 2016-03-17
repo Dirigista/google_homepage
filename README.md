@@ -1,7 +1,9 @@
+
 #google-homepage
-Progetto ranax
-gran trito
+
+#Dirigista's project to clone a html-css of google  search result page
+
 
 #Linkettone caldo
 
-# https://github.com/Dirigista/google-homepage.git
+# https://github.com/Dirigista/google_homepage.git
