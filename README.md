@@ -1,11 +1,7 @@
-
 #google-homepage
+Progetto ranax
+gran trito
 
-#Dirigista's project to clone a html-css of google  search result page
+#Linkettone caldo
 
-
-#Odin project link
-#http://www.theodinproject.com/web-development-101/html-css
-
-#github repository link
-# https://github.com/Dirigista/google_homepage.git
+# https://github.com/Dirigista/google-homepage.git
